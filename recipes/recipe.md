@@ -11,7 +11,8 @@ I will need:
 	- 100 g sucre semoule
 	- 1 sachet sucre vanillé
 - 100 g de beurre *doux*
-- etc.
+- 4 cuillères à soupe de farine
+- 5 oeufs
 
 
 let's put a web link [here](http://www.marmiton.org/recettes/recette_fondant-au-chocolat_15025.aspx)...
@@ -23,7 +24,10 @@ This is an image (taken from the internet) ![fondant au chocolat](https://image.
 this is a list :
 
 
-1. one
-2. two
-3. three
-4. etc.
+1. Faire fondre le chocolat avec le beurre au bain marie
+2. Pendant ce temps, séparer le blanc des jaunes et monter les blancs en neige
+3. Quand le chocolat est bien fondu, ajouter le sucre et la farine
+4. Incorporer doucement les blancs en neige
+5. Mettre au four pendant 20 min à 180 degrés
+
+# DEGUSTATION
