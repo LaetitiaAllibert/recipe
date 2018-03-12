@@ -2,7 +2,7 @@
 
 Ceci est la recette de mon fondant au chocolat favori
 
-## Ingrédients
+## **Ingrédients**
 
 I will need:
 
@@ -15,16 +15,15 @@ I will need:
 - 5 oeufs
 
 
-let's put a web link [here](http://www.marmiton.org/recettes/recette_fondant-au-chocolat_15025.aspx)...
+let's put a web link for the full recipe : [here](http://www.marmiton.org/recettes/recette_fondant-au-chocolat_15025.aspx)...
 
 This is an image (taken from the internet) ![fondant au chocolat](https://image.afcdn.com/recipe/20150123/33431_w600.jpg)
 
-**bold**
 
-this is a list :
+## **Préparation** :
 
 
-1. Faire fondre le chocolat avec le beurre au bain marie
+1. Faire fondre le **chocolat** avec le beurre au bain marie
 2. Pendant ce temps, séparer le blanc des jaunes et monter les blancs en neige
 3. Quand le chocolat est bien fondu, ajouter le sucre et la farine
 4. Incorporer doucement les blancs en neige
