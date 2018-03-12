@@ -30,3 +30,5 @@ This is an image (taken from the internet) ![fondant au chocolat](https://image.
 5. Mettre au four pendant 20 min à 180 degrés
 
 # DEGUSTATION
+
+![](https://i.ytimg.com/vi/RHktSFZiJe0/hqdefault.jpg)
