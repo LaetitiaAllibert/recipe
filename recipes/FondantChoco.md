@@ -1,5 +1,5 @@
 # Recette -- Fondant chocolat
-![gateau](image.jpg)
+![gateau](./image.jpg)
 Ceci est la recette de mon fondant au chocolat favori
 
 ## **Ingrédients**
