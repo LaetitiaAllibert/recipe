@@ -1,5 +1,5 @@
 # Recette -- Fondant chocolat
-![gateau](./image.jpg)
+![gateau](https://static.cuisineaz.com/400x320/i75546-fondant-au-chocolat-de-delphine.jpg)
 Ceci est la recette de mon fondant au chocolat favori
 
 ## **Ingrédients**
