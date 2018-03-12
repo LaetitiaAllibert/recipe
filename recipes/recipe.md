@@ -6,13 +6,13 @@ Ceci est la recette de mon fondant au chocolat favori
 
 I will need:
 
-- 200 g de chocolat dessert
+- 200 g de chocolat dessert ![](https://image.afcdn.com/recipe/20170607/67456_w100h100c1cx350cy350.jpg)
 - sucre
-	- 100 g sucre semoule
+	- 100 g sucre semoule ![](https://image.afcdn.com/recipe/20170621/68916_w100h100c1cxt0cyt0cxb700cyb700.jpg)
 	- 1 sachet sucre vanillé
-- 100 g de beurre *doux*
-- 4 cuillères à soupe de farine
-- 5 oeufs
+- 100 g de beurre *doux* ![](https://image.afcdn.com/recipe/20170621/68919_w100h100c1cxt0cyt0cxb300cyb300.jpg)
+- 4 cuillères à soupe de farine ![](https://image.afcdn.com/recipe/20170607/67682_w100h100c1cx350cy350.jpg)
+- 5 oeufs ![](https://image.afcdn.com/recipe/20170607/67505_w100h100c1cx350cy350.jpg)
 
 
 let's put a web link for the full recipe : [here](http://www.marmiton.org/recettes/recette_fondant-au-chocolat_15025.aspx)...
