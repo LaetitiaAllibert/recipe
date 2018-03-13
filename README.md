@@ -1,4 +1,4 @@
-# recipe
+# Recipe
 A recipe for the git class, 2018
 
 This a repository for a recipe. An *online exercise* for the Git class 2018 at **IPGP**. 
