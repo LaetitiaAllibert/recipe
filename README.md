@@ -1,7 +1,7 @@
 # recipe
 A recipe for the git class, 2018
 
-This a a repository for a recipe. An *online exercise* for the Git class 2018 at **IPGP**. 
+This a repository for a recipe. An *online exercise* for the Git class 2018 at **IPGP**. 
 
 You can *try* this recipe, I **higly recommand it to you**; and about the class, until now, everything is very nice and amazing ! 
 
