@@ -8,3 +8,5 @@ You can *try* this recipe, I **higly recommand it to you**; and about the class,
 Git is about to **change my life** !!! 
 
 ![Happy as the sun](https://image.slidesharecdn.com/versioncontrolsystems-151215010444/95/vcs-three-letters-that-can-change-your-life-28-638.jpg?cb=1450141630)
+
+hmm... Maybe it already did ! 
